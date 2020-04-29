@@ -1,1 +1,1 @@
-worker: java -Dnogui=true -JMusicBot.jar
+worker: java -Dnogui=true -ar application.jar
