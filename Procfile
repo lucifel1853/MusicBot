@@ -1,1 +1,1 @@
-worker: java -Dnogui=true -JMusicBot.java
+worker: java -Dnogui=true -JMusicBot.jar
